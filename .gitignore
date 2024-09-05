@@ -1,0 +1,25 @@
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environments
+env312/
+venv/
+env38/
+env36/
+
+# Ignore Odoo specific files
+*.log
+*.dat
+
+
+
+
+
+
+
+
+
+
+
